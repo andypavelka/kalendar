@@ -23,11 +23,17 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250709T054730Z
-UID:1752040010844-47711@ical.marudot.com
-DTSTART;TZID=Europe/Prague:20250715T190000
-DTEND;TZID=Europe/Prague:20250715T203000
-SUMMARY:Jak se zlepšit v komunikaci a přednesu i bez praxe nebo přirozeného talentu
+DTSTAMP:20250819T102222Z
+UID:1755598864419-87010@ical.marudot.com
+DTSTART;TZID=Europe/Prague:20250903T190000
+DTEND;TZID=Europe/Prague:20250903T203000
+SUMMARY:Nakopni se po létě a využij poslední čtyři měsíce roku na maximum.
+DESCRIPTION:Okopíruj můj ověřený systém\, který už pomohl tisícům lidí dosáhnout jejich cílů. Zaregistruj se na workshop a vstup do nového školního roku naplno a ve své nejlepší formě.
 LOCATION:Online - odkaz vám přišel do emailu po registraci
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Nakopni se po létě a využij poslední čtyři měsíce roku na maximum.
+TRIGGER:-PT30M
+END:VALARM
 END:VEVENT
 END:VCALENDAR
