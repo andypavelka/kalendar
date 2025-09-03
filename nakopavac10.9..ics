@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/Prague
+LAST-MODIFIED:20240422T053450Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Europe/Prague
+X-LIC-LOCATION:Europe/Prague
+BEGIN:DAYLIGHT
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20250903T185426Z
+UID:1755598864419-87010@ical.marudot.com
+DTSTART;TZID=Europe/Prague:20250910T190000
+DTEND;TZID=Europe/Prague:20250910T203000
+SUMMARY:Nakopni se po létě a využij poslední čtyři měsíce roku na maximum.
+DESCRIPTION:Okopíruj můj ověřený systém\, který už pomohl tisícům lidí dosáhnout jejich cílů. Zaregistruj se na workshop a vstup do nového školního roku naplno a ve své nejlepší formě.
+LOCATION:Online - odkaz vám přišel do emailu po registraci
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Nakopni se po létě a využij poslední čtyři měsíce roku na maximum.
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
