@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//RESTART//Vyzva//CS
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTART:20260906T183000Z
+DTEND:20260906T193000Z
+SUMMARY:Den #1 – VIP hovor
+DESCRIPTION:Odkaz na VIP hovor: https://www.skool.com/live/PMfFbXWnlSt
+URL:https://www.skool.com/live/PMfFbXWnlSt
+LOCATION:https://www.skool.com/live/PMfFbXWnlSt
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260907T183000Z
+DTEND:20260907T193000Z
+SUMMARY:Den #2 – VIP hovor
+DESCRIPTION:Odkaz na VIP hovor: https://www.skool.com/live/6L39YCHWyfX
+URL:https://www.skool.com/live/6L39YCHWyfX
+LOCATION:https://www.skool.com/live/6L39YCHWyfX
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260908T183000Z
+DTEND:20260908T193000Z
+SUMMARY:Den #3 – VIP hovor
+DESCRIPTION:Odkaz na VIP hovor: https://www.skool.com/live/YRP7Qr8Vxx3
+URL:https://www.skool.com/live/YRP7Qr8Vxx3
+LOCATION:https://www.skool.com/live/YRP7Qr8Vxx3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260909T183000Z
+DTEND:20260909T193000Z
+SUMMARY:Den #4 – VIP hovor
+DESCRIPTION:Odkaz na VIP hovor: https://www.skool.com/live/ClJwH5DVx3y
+URL:https://www.skool.com/live/ClJwH5DVx3y
+LOCATION:https://www.skool.com/live/ClJwH5DVx3y
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260910T170000Z
+DTEND:20260910T180000Z
+SUMMARY:Den #5 – VIP hovor
+DESCRIPTION:Odkaz na VIP hovor: https://www.skool.com/live/fWbdVqlLhpT
+URL:https://www.skool.com/live/fWbdVqlLhpT
+LOCATION:https://www.skool.com/live/fWbdVqlLhpT
+END:VEVENT
+END:VCALENDAR
